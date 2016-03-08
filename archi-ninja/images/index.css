@@ -85,10 +85,10 @@ em{
 
 #extra, #view{
 	position: absolute;
-	left: 678px;
-	top: 331px;
-	width: 567px;
-	height: 399px;
+	left: 50%;
+	top: 50%;
+	width: 640px;
+	height: 480px;
 	margin: -280px auto auto -320px;
 	text-align: left;
 	background: #fff;
