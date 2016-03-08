@@ -471,7 +471,7 @@ define("scripts/main.js", function(exports){
 	var tip = "";
 	
 	if( !Ucren.isChrome )
-	    tip = "$为了获得最佳流畅度，推荐您使用 <span class='b'>Google Chrome</span> 体验本游戏";
+	    tip = "$为了获得最佳流畅度，推荐您使用 <span class='b'>电脑或IPAD</span> 体验本游戏";
 	
 	if( !buzz.isSupported() )
 	    tip = tip.replace( "$", "您的浏览器不支持 &lt;audio&gt 播放声效，且" );
