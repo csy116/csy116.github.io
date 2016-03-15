@@ -63,13 +63,13 @@ canvas {
 
 
 @font-face {
-    font-family: 'walibi0615bold';
-    src: url('walibi-holland-webfont.eot');
-    src: url('walibi-holland-webfont.eot?#iefix') format('embedded-opentype'),
-         url('walibi-holland-webfont.woff2') format('woff2'),
-         url('walibi-holland-webfont.woff') format('woff'),
-         url('walibi-holland-webfont.ttf') format('truetype'),
-         url('walibi-holland-webfont.svg#walibi0615bold') format('svg');
+    font-family: 'Helvetica';
+    src: url('Helvetica.eot');
+    src: url('Helveticat.eot?#iefix') format('embedded-opentype'),
+         url('Helvetica.woff2') format('woff2'),
+         url('Helvetica.woff') format('woff'),
+         url('Helvetica.ttf') format('truetype'),
+        
     font-weight: normal;
     font-style: normal;
 
